@@ -1,0 +1,15 @@
+In JavaScript, primitive data types are the basic building blocks of data and are immutable, 
+meaning they cannot be altered once created. 
+There are five primitive data types in JavaScript:-
+1)String:-
+let myString = 'Hello, World!';
+2)Number:-
+let myNumber = 42;
+let myFloat = 3.14;
+3)Boolean:-
+let isTrue = true;
+let isFalse = false;
+4)Null:-
+let myNull = null;
+5)Undefine:-
+let myUndefined;
