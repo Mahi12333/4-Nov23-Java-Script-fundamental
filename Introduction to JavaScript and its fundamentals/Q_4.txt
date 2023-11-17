@@ -1,0 +1,16 @@
+Purpose of Declaring Variables in JavaScript:-
+
+Declaring variables in JavaScript serves the purpose of allocating memory to store and manage data within a program. Variables are fundamental to programming for several reasons:
+
+Storage:- Variables allow you to store and hold data values.
+
+Manipulation:- They enable the manipulation and modification of data during the execution of a script.
+
+Reuse:- Variables facilitate the reuse of values in different parts of a program.
+
+Readability:- Proper variable naming enhances code readability, making it easier for developers to understand and maintain the code.
+
+let age; // Variable declaration
+age = 25; // Variable initialization
+
+let name = "John"; // Declaration and initialization in one line

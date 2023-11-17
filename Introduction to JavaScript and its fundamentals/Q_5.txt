@@ -1,0 +1,9 @@
+Code Explanation: Comments provide an explanation of the code's purpose and functionality, making it easier for developers (including yourself and others) to understand the logic.
+
+Documentation: Comments serve as a form of documentation, describing the usage, inputs, and expected outputs of functions or sections of code.
+
+Debugging: Comments can be used to temporarily disable or "comment out" sections of code during debugging, helping to identify issues.
+
+Collaboration: When multiple developers work on a project, comments serve as a means of communication, allowing developers to understand each other's code and collaborate effectively.
+
+Code Maintenance: Comments assist in maintaining and updating code by providing insights into the purpose of specific blocks, functions, or variables.
