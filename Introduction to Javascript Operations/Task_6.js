@@ -8,14 +8,14 @@ function calculateBMI(weight, height) {
 
 
 // Example values
-let height = 60; // Principal amount in dollars
-let weight = 5; // Annual interest rate in percentage
+let height = 60; 
+let weight = 5; 
 
 
-// Calculate simple interest
+// Calculate BMI
 let interest = calculateBMI(height, weight);
 
 // Display the result
-console.log(`Height: $${height}`);
-console.log(`Weight: ${weight}%`);
+console.log(`Height: ${height}`);
+console.log(`Weight: ${weight}`);
 
